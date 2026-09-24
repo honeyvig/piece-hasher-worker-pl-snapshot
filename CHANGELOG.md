@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.0.0 (2026-09-24)
+
+
+### Features
+
+* initial commit ([ab484cd](https://github.com/honeyvig/piece-hasher-worker-pl-snapshot/commit/ab484cdc05554c0a94602e7abccd73999f5f2bad))
+
+
+### Bug Fixes
+
+* build before test ([e2d3191](https://github.com/honeyvig/piece-hasher-worker-pl-snapshot/commit/e2d3191f550777939eb2bb0910db8450d2ddb2f2))
+* missing script ([dfd1691](https://github.com/honeyvig/piece-hasher-worker-pl-snapshot/commit/dfd1691d3122c7f727c84e0a205fa81e4f4765a0))
+* remove console log ([756aa8e](https://github.com/honeyvig/piece-hasher-worker-pl-snapshot/commit/756aa8eb42196901597ae51d540316f273d36d2f))
+
 ## [1.0.3](https://github.com/storacha-network/piece-hasher-worker/compare/v1.0.2...v1.0.3) (2024-06-25)
 
 
